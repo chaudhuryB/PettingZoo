@@ -1,0 +1,12 @@
+4
+
+# Personality selector. It also defines the sound files to expect in the SD card
+# The star in the sound file is the placeholder for index of the sound files
+# which will be selected at random.
+# 1 = Super excited       soundFilename = sndExci*.wav
+# 2 = Happily Surprised   soundFilename = sndSurp*.wav
+# 3 = Happy		  soundFilename = sndHapp*.wav
+# 4 = Apologetic	  soundFilename = sndApol*.wav
+# 5 = Fearful		  soundFilename = sndFear*.wav
+# 6 = Angry		  soundFilename = sndAngr*.wav 
+
