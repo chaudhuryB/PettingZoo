@@ -1,2 +1,9 @@
 # PettingZoo
 Code and Circuit Diagrams for giving Roomba's personality
+
+# About
+The robotic petting zoo project was produced at the SoBA Lab, within the Psychology Department, at Bangor University. The technical requirement for the project was to control a robotic vacuum cleaner to display a certain personality and play a characteristics sound when it bumped into any objects as it went about doing the cleaning task. This document details how to go about doing this for anyone who wants to try to give their Roombas a personality.
+
+RoboticPettingZoo.pdf  : Contains more about the project, design and circuit diagram
+roomba_pet             : Contains the code files for Arduino Uno Rev3 for controlling the Roomba
+SDContents             : Contains sample config and sound file for two personalities (Angry and Apologetic)
